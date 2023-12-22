@@ -1,0 +1,6 @@
+<settings>
+    <setting propertyKey="@Properties.ShowDate" title="@Strings.ShowDateTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+</settings>

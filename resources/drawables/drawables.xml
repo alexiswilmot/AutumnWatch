@@ -1,0 +1,13 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="backgroundImg" filename="../images/gradient.png" />
+    <drawable-list id="Drawing" background="Graphics.COLOR_TRANSPARENT">
+        <shape type="rectangle" x="center" y="0" width="400" height="25" color="Graphics.COLOR_BLACK"/>
+        <shape type="rectangle" x="0" y="0%" width="63" height="400" />
+        <shape type="rectangle" x="75%" y="0%" width="80" height="110"  />
+        <shape type="rectangle" x="center" y="90%" width="400" height="30"  />
+        <shape type="rectangle" x="178" y="110" width="16" height="150" />
+        <shape type="rectangle" x="225" y="110" width="30" height="150"  />
+        <shape type="rectangle" x="193" y="133" width="60" height="150"  />
+	</drawable-list>
+</drawables>
